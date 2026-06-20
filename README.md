@@ -92,3 +92,21 @@ MMU-Design-Verilog-HDL/
 ├── .gitignore
 
 ---
+
+
+---
+
+## ⚙️ How to Run
+
+### 1. Compile Verilog
+```bash
+iverilog -o mmu_sim tb/top_tb.v rtl/*.v
+
+### 2. Run Simulation
+vvp mmu_sim
+
+3. View Waveform
+gtkwave mmu.vcd
+
+4. Generate Architecture Images
+python generate_all_images.py
