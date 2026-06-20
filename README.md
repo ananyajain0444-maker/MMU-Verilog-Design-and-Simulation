@@ -106,3 +106,21 @@ gtkwave mmu.vcd
 
 ### 4. Generate Architecture Images
 python generate_all_images.py
+
+---
+
+📈 Learning Outcomes
+
+-Understanding of virtual memory systems
+-Implementation of MMU architecture
+-Design of FSM-based hardware logic
+-Hands-on experience with RTL simulation flow
+-Visualization of hardware using Python tools
+
+👨‍💻 Author
+
+Ananya Jain
+
+📜 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
