@@ -1,0 +1,56 @@
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Virtual environment
+# =========================
+venv/
+env/
+ENV/
+
+# =========================
+# Simulation outputs (Verilog / VCD)
+# =========================
+*.vcd
+*.fst
+*.lxt
+*.log
+*.out
+*.dump
+
+# compiled simulation executable
+mmu_sim
+*.exe
+
+# =========================
+# GTKWave / waveform files
+# =========================
+*.gtkw
+*.sav
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Jupyter (if used)
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Environment variables
+# =========================
+*.env
+
+# =========================
+# Temporary / backup files
+# =========================
+*.tmp
+*.bak
