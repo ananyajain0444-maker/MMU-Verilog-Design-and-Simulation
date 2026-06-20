@@ -93,9 +93,6 @@ MMU-Design-Verilog-HDL/
 
 ---
 
-
----
-
 ## ⚙️ How to Run
 
 ### 1. Compile Verilog
