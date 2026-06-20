@@ -51,21 +51,20 @@ This waveform represents:
 ---
 
 ## 🧠 Workflow
-CPU generates Virtual Address
-↓
-MMU
-↓
-TLB Lookup
-↓ ↓
-HIT MISS
-↓ ↓
-Physical Page Table Walk
-Address ↓
-Update TLB
-↓
-Physical Address Output
 
-
+CPU generates Virtual Address  
+↓  
+MMU  
+↓  
+TLB Lookup  
+↓        ↓  
+HIT      MISS  
+↓        ↓  
+Physical  Page Table Walk  
+Address   ↓  
+          Update TLB  
+              ↓  
+      Physical Address Output  
 ---
 
 ## 🛠️ Tech Stack
