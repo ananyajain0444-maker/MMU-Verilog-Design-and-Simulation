@@ -111,22 +111,20 @@ python generate_all_images.py
 
 ## 📈 Learning Outcomes
 
-- Understood MMU architecture and virtual memory concepts.
-- Implemented TLB and Page Table Walk (PTW) in Verilog.
-- Designed FSM-based hardware control logic.
-- Performed RTL simulation and waveform analysis using VCD.
-- Gained experience in Verilog design, verification, and Python-based visualization.
+- Understanding of virtual memory systems  
+- Implementation of MMU architecture  
+- Design of FSM-based hardware logic  
+- Hands-on experience with RTL simulation flow  
+- Visualization of hardware using Python tools  
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Ananya Jain
+Ananya Jain  
 
---
+---
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-----
